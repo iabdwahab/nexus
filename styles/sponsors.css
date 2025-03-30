@@ -1,0 +1,19 @@
+.sponsors-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.sponsors-section__container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.sponsors-section__sponsor-logo {
+  max-width: 100px;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: aliceblue; */
+}

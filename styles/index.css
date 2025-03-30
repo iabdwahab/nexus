@@ -4,6 +4,7 @@
 /* Import CSS Files */
 @import url('header.css');
 @import url('main.css');
+@import url('sponsors.css');
 
 * {
   font-family: 'Syne', sans-serif;
